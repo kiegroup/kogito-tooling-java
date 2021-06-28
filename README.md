@@ -10,7 +10,7 @@ Kogito
 [![GitHub Issues](https://img.shields.io/github/issues/kiegroup/kogito-tooling-java.svg)]()
 [![Pull Requests](https://img.shields.io/github/issues-pr/kiegroup/kogito-tooling-java.svg?style=flat-square)](https://github.com/kiegroup/kogito-tooling-java/pulls)
 [![Contributors](https://img.shields.io/github/contributors/kiegroup/kogito-tooling-java.svg?style=flat-square)](https://github.com/kiegroup/kogito-tooling-java/graphs/contributors)
-[![License](https://img.shields.io/github/license/kiegroup/kogito-tooling-java.svg)](https://github.com/kiegroup/kogito-tooling-java/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/kiegroup/kogito-tooling-java.svg)](https://github.com/kiegroup/kogito-tooling-java/blob/main/LICENSE)
 [![Twitter Follow](https://img.shields.io/twitter/follow/kogito_kie.svg?label=Follow&style=social)](https://twitter.com/kogito_kie?lang=en)
 
 Quick Links
@@ -61,7 +61,7 @@ When opening PRs, please make sure to provide a detailed description of the issu
 Contributing to Kogito
 --------------------
 
-All contributions are welcome! Before you start please read the [Developing Drools and jBPM](https://github.com/kiegroup/droolsjbpm-build-bootstrap/blob/master/README.md) guide.
+All contributions are welcome! Before you start please read the [Developing Drools and jBPM](https://github.com/kiegroup/droolsjbpm-build-bootstrap/blob/main/README.md) guide.
 
 
 Guides
