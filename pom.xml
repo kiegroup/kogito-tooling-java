@@ -48,7 +48,7 @@
   <scm>
     <connection>scm:git:git://github.com/kiegroup/kogito-tooling-java.git</connection>
     <developerConnection>scm:git:ssh://github.com:kiegroup/kogito-tooling-java.git</developerConnection>
-    <url>http://github.com/kiegroup/kogito-tooling-java/tree/master</url>
+    <url>http://github.com/kiegroup/kogito-tooling-java/tree/main</url>
   </scm>
 
   <properties>
